@@ -22,7 +22,7 @@ Game Engineer with a passion for crafting immersive gaming experiences. Proficie
  <summary> 👩‍💻About Me</summary>
 
 - 🚀 I'm currently working on a massive multiplayer online game project.
-- 🔭 I'm a game engineer at a Taiwanese MMO company,, focused on developing innovative gameplay through the integration of generative AI.
+- 🔭 I'm a game engineer at a Taiwanese MMO company, focused on developing innovative gameplay through the integration of generative AI.
 - 🌱 I'm constantly learning about new AI techniques, especially those related to natural language processing, speech synthesis, and image generation.
 - 🤔 I'm looking for help with optimizing AI models for real-time applications within game engines.
 - 💬 Ask me about game development with Unity, C#, and Lua, server-side development with C++, or my experiences working on a MMO.
