@@ -13,6 +13,8 @@ Game Engineer with a passion for crafting immersive gaming experiences. Proficie
 
 ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi😸I'm%20ANONEKO%20✨&text2=💻%20Game%20Developer%20💖%20Open%20Source&width=800&height=200)
 
+![ANONEKO profile views](https://u8views.com/api/v1/github/profiles/2578490/views/day-week-month-total-count.svg)
+
 </div>
 
 ---
@@ -125,5 +127,3 @@ Game Engineer with a passion for crafting immersive gaming experiences. Proficie
 </h4>
   <br>
 </details>
-
-
